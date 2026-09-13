@@ -8,5 +8,9 @@
     "openai-codex/gpt-6-*",
     "openai-codex/gpt-5.6-*",
     "google/gemini-3.8-flash"
+  ],
+  "packages": [
+    "npm:pi-web-access",
+    "npm:pi-mcp-adapter"
   ]
 }
