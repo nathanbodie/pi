@@ -1,0 +1,8 @@
+agent/auth.json
+agent/sessions/
+agent/missions/
+agent/run-history.jsonl
+agent/mcp-cache.json
+agent/mcp-onboarding.json
+agent/models-store.json
+agent/bin/
