@@ -6,3 +6,4 @@ agent/mcp-cache.json
 agent/mcp-onboarding.json
 agent/models-store.json
 agent/bin/
+agent/web-search-cache/
